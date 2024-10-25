@@ -1,4 +1,4 @@
-## 👋👋 Hi, I'm Jean Agnus
+## 👋 Hi, I'm Jean Agnus
 
 
 ## About Me
