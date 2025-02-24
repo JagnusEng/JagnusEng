@@ -2,7 +2,7 @@
 
 
 ## About Me
-I'm a passionate Software Engineer with a deep curiosity for learning and exploring new skills and fields. My journey in tech is driven by a love for problem-solving, creativity, and the desire to make a meaningful impact.
+Passionate about anything that has to do with software, embedded systems, computer vision, robotics, medical devices, and autonomous vehicles. Always looking to learn and expand my horizons.
 
 
 ## 🎸 Outside of Tech
@@ -12,9 +12,13 @@ I'm a passionate Software Engineer with a deep curiosity for learning and explor
 
 
 ## 💻 Technical Skills
-- Languages & Tools: HTML/CSS, Python, JavaScript
+- Languages & Tools: HTML/CSS, Python, JavaScript, C++
 - Technologies: Git, GitHub, VSCode, Figma, ROS
 - Special Interests: Front-end and Back-end development, creative problem-solving, and building user-focused solutions.
+- Computer Vision
+- ROS and Ros 2
+- Machine Learning
+- Deep Learning
 
 
 ## 📫 Let’s Connect
