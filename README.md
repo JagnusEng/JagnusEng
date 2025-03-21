@@ -13,8 +13,8 @@ Passionate about anything that has to do with software, embedded systems, comput
 
 ## 💻 Technical Skills
 - Languages & Tools: HTML/CSS, Python, JavaScript, C++
-- Technologies: Git, GitHub, VSCode, Figma, ROS
-- Special Interests: Front-end and Back-end development, creative problem-solving, and building user-focused solutions.
+- Technologies: Git, GitHub, VSCode, Figma, ROS2
+- Special Interests: creative problem-solving, and building user-focused solutions.
 - Computer Vision
 - ROS and Ros 2
 - Machine Learning
