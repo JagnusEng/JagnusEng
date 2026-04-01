@@ -2,7 +2,29 @@
 
 
 ## About Me
-Passionate about anything that has to do with software, embedded systems, computer vision, robotics, medical devices, and autonomous vehicles. Always looking to learn and expand my horizons.
+AI Software Engineer | Building real-world AI systems for insurance, legal, and property workflows
+
+I design and build backend systems and AI-powered applications that automate complex processes such as claims handling, document analysis, and decision-making.
+
+Tech Focus:
+• Python, FastAPI, REST APIs
+• Machine Learning & Data Pipelines
+• LLM Applications (RAG, structured outputs)
+• Computer Vision (YOLOv8)
+
+Projects:
+• AI Text Analyzer API (LLM-based structured analysis)
+• Flight Delay Prediction System (ML + API deployment)
+• AI Document Q&A System (RAG pipeline)
+• Damage Detection System (Computer Vision for claims)
+
+Background:
+I bring domain expertise in insurance claims, legal operations, and property workflows — allowing me to build systems that solve real business problems, not just technical demos.
+
+Currently seeking:
+• Solutions Engineer roles
+• AI / ML Engineer (Junior)
+• Backend Engineer (Python / APIs)
 
 
 ## 🎸 Outside of Tech
